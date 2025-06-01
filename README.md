@@ -5,8 +5,9 @@
 
 ## Practices by algorithms.
 
-![](img/big-o-cheat-sheet-poster.png)
 
+![](img/big-o-cheat-sheet-poster.png)
+=======
 
 
  [README.md](Notes/Algorithms/README.md) 
